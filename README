@@ -1,0 +1,7 @@
+This source code demonstrates how to do color inversion on JPEG images.
+
+Requirement:
+1) CUDA SDK
+2) libjpeg
+
+Tested onlt on OS X 10.8

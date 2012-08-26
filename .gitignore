@@ -1,0 +1,28 @@
+# OS X crap files
+.DS_Store 
+._*
+.Spotlight-V100
+.Trashes
+
+# C/C++
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
