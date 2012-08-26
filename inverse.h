@@ -1,0 +1,1 @@
+extern "C" void inverseImage(const RawImage *src, RawImage *dst);
